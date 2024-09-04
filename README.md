@@ -1,7 +1,5 @@
 # Belgium-Soccer-Fans-Portal
 
-# Belgium Soccer Fans Portal
-
 Welcome to the Belgium Soccer Fans Portal! This project is a web-based application designed specifically for fans of the Belgium soccer team. The portal provides a user-friendly interface to explore player statistics, team information, and more.
 
 ## Table of Contents
