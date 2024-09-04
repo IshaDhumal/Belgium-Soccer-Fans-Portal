@@ -9,7 +9,6 @@ Welcome to the Belgium Soccer Fans Portal! This project is a web-based applicati
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [Acknowledgements](#acknowledgements)
 
 ## Project Overview
 The Belgium Soccer Fans Portal is built using the R Shiny framework. It serves as an interactive platform for soccer enthusiasts to access detailed statistics about Belgium's national soccer team. The main objective is to create an engaging experience for users, allowing them to easily browse and analyze player and team data.
@@ -50,8 +49,4 @@ Once the application is running, open your web browser and go to `http://localho
 
 ## Contributing
 We welcome contributions to improve this project. If you have any suggestions or bug reports, please open an issue or submit a pull request.
-
-
-## Acknowledgements
-This project was developed as part of a group project at [Columbia University](https://www.columbia.edu/). Special thanks to our professor Day Yi and team members for their contributions and guidance.
 
