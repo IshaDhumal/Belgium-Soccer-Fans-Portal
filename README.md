@@ -11,7 +11,6 @@ Welcome to the Belgium Soccer Fans Portal! This project is a web-based applicati
 - [Usage](#usage)
 - [File Structure](#file-structure)
 - [Contributing](#contributing)
-- [License](#license)
 - [Acknowledgements](#acknowledgements)
 
 ## Project Overview
@@ -28,7 +27,7 @@ To run this project locally, follow these steps:
 
 1. **Clone the repository:**
     ```bash
-    git clone https://github.com/yourusername/Belgium-Soccer-Fans-Portal.git
+    git clone https://github.com/IshaDhumal/Belgium-Soccer-Fans-Portal.git
     ```
 2. **Navigate to the project directory:**
     ```bash
@@ -54,9 +53,7 @@ Once the application is running, open your web browser and go to `http://localho
 ## Contributing
 We welcome contributions to improve this project. If you have any suggestions or bug reports, please open an issue or submit a pull request.
 
-## License
-This project is licensed under the MIT License. See the `LICENSE` file for details.
 
 ## Acknowledgements
-This project was developed as part of a group project at [Columbia University](https://www.columbia.edu/). Special thanks to our professor and team members for their contributions and guidance.
+This project was developed as part of a group project at [Columbia University](https://www.columbia.edu/). Special thanks to our professor Day Yi and team members for their contributions and guidance.
 
